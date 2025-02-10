@@ -11,6 +11,8 @@ A conversational AI system that takes user queries, refines them, retrieves rele
 ## Introduction
 The Query Answering System is designed to provide accurate and relevant responses to user queries. It leverages the power of natural language processing (NLP) techniques and the LangChain framework to refine queries, retrieve relevant documents, and generate answers.
 
+[Explore more AI projects](https://github.com/NxtGen-AI-Public/NxtGen-OnTopic) in our parent repository, which showcases a wide range of innovative applications and use cases.
+
 ## Installation
 To install the required dependencies, follow these steps:
 
